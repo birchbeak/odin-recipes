@@ -1,0 +1,20 @@
+/*style.css*/
+body{
+    background-color: rgb(7, 78, 43);
+}
+
+
+img{
+    height: auto;
+    width: 500px;
+}
+
+li{font-size: 20px;}
+
+a{
+    color: rgb(255, 145, 0);
+}
+
+.description{
+    font-size: 25px;
+}
